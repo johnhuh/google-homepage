@@ -130,6 +130,7 @@ nav a button {
     font-size:0.9rem;
     border-radius: 5px;
     cursor:pointer;
+    outline:none;
 }
 
 .func:hover {
